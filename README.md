@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 ## Personal portfolio website
 ##### https://liazapciroiu.github.io/portfolio/
 
