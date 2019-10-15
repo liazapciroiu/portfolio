@@ -1,4 +1,8 @@
-##Personal portfolio website
+---
+permalink: /index.html
+---
+
+## Personal portfolio website
 ##### https://liazapciroiu.github.io/portfolio/
 
 I made this project to better grasp the concepts and technologies that I’ve learned at Coders Lab, to work at a final product that is a full website, with multiple pages, animations, responsive and of course, to showcase what I will develop next.
